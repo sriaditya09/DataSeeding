@@ -1,0 +1,182 @@
+﻿[
+  {
+    "Name": "ANDAMAN AND NICOBAR ISLANDS",
+    "StateCode": 1,
+    "CountryCode": 76
+  },
+  {
+    "Name": "ANDHRA PRADESH",
+    "StateCode": 2,
+    "CountryCode": 76
+  },
+  {
+    "Name": "ARUNACHAL PRADESH",
+    "StateCode": 3,
+    "CountryCode": 76
+  },
+  {
+    "Name": "ASSAM",
+    "StateCode": 4,
+    "CountryCode": 76
+  },
+  {
+    "Name": "BIHAR",
+    "StateCode": 5,
+    "CountryCode": 76
+  },
+  {
+    "Name": "CHHATTISGARH",
+    "StateCode": 6,
+    "CountryCode": 76
+  },
+  {
+    "Name": "GOA",
+    "StateCode": 7,
+    "CountryCode": 76
+  },
+  {
+    "Name": "GUJARAT",
+    "StateCode": 8,
+    "CountryCode": 76
+  },
+  {
+    "Name": "HARYANA",
+    "StateCode": 9,
+    "CountryCode": 76
+  },
+  {
+    "Name": "HIMACHAL PRADESH",
+    "StateCode": 10,
+    "CountryCode": 76
+  },
+  {
+    "Name": "JHARKHAND",
+    "StateCode": 11,
+    "CountryCode": 76
+  },
+  {
+    "Name": "KARNATAKA",
+    "StateCode": 12,
+    "CountryCode": 76
+  },
+  {
+    "Name": "KERALA",
+    "StateCode": 13,
+    "CountryCode": 76
+  },
+  {
+    "Name": "MADHYA PRADESH",
+    "StateCode": 14,
+    "CountryCode": 76
+  },
+  {
+    "Name": "MAHARASHTRA",
+    "StateCode": 15,
+    "CountryCode": 76
+  },
+  {
+    "Name": "MANIPUR",
+    "StateCode": 16,
+    "CountryCode": 76
+  },
+  {
+    "Name": "MEGHALAYA",
+    "StateCode": 17,
+    "CountryCode": 76
+  },
+  {
+    "Name": "MIZORAM",
+    "StateCode": 18,
+    "CountryCode": 76
+  },
+  {
+    "Name": "NAGALAND",
+    "StateCode": 19,
+    "CountryCode": 76
+  },
+  {
+    "Name": "ODISHA",
+    "StateCode": 20,
+    "CountryCode": 76
+  },
+  {
+    "Name": "PUNJAB",
+    "StateCode": 21,
+    "CountryCode": 76
+  },
+  {
+    "Name": "RAJASTHAN",
+    "StateCode": 22,
+    "CountryCode": 76
+  },
+  {
+    "Name": "SIKKIM",
+    "StateCode": 23,
+    "CountryCode": 76
+  },
+  {
+    "Name": "TAMIL NADU",
+    "StateCode": 24,
+    "CountryCode": 76
+  },
+  {
+    "Name": "TELANGANA",
+    "StateCode": 25,
+    "CountryCode": 76
+  },
+  {
+    "Name": "TRIPURA",
+    "StateCode": 26,
+    "CountryCode": 76
+  },
+  {
+    "Name": "UTTARAKHAND",
+    "StateCode": 27,
+    "CountryCode": 76
+  },
+  {
+    "Name": "UTTAR PRADESH",
+    "StateCode": 28,
+    "CountryCode": 76
+  },
+  {
+    "Name": "WEST BENGAL",
+    "StateCode": 29,
+    "CountryCode": 76
+  },
+  {
+    "Name": "DELHI",
+    "StateCode": 30,
+    "CountryCode": 76
+  },
+  {
+    "Name": "JAMMU AND KASHMIR",
+    "StateCode": 31,
+    "CountryCode": 76
+  },
+  {
+    "Name": "LADAKH",
+    "StateCode": 32,
+    "CountryCode": 76
+  },
+  {
+    "Name": "LAKSHADWEEP",
+    "StateCode": 33,
+    "CountryCode": 76
+  },
+  {
+    "Name": "DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+    "StateCode": 34,
+    "CountryCode": 76
+  },
+  {
+    "Name": "PUDUCHERRY",
+    "StateCode": 35,
+    "CountryCode": 76
+  },
+  {
+    "Name": "CHANDIGARH",
+    "StateCode": 36,
+    "CountryCode": 76
+  }
+]

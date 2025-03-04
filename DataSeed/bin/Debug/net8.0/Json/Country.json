@@ -1,0 +1,822 @@
+﻿[
+  {
+    "Name": "AFGHANISTAN",
+    "CountryCode": 1
+  },
+  {
+    "Name": "ALBANIA",
+    "CountryCode": 2
+  },
+  {
+    "Name": "ALGERIA",
+    "CountryCode": 3
+  },
+  {
+    "Name": "ANDORRA",
+    "CountryCode": 4
+  },
+  {
+    "Name": "ANGOLA",
+    "CountryCode": 5
+  },
+  {
+    "Name": "ANTIGUA AND BARBUDA",
+    "CountryCode": 6
+  },
+  {
+    "Name": "ARGENTINA",
+    "CountryCode": 7
+  },
+  {
+    "Name": "ARMENIA",
+    "CountryCode": 8
+  },
+  {
+    "Name": "AUSTRALIA",
+    "CountryCode": 9
+  },
+  {
+    "Name": "AUSTRIA",
+    "CountryCode": 10
+  },
+  {
+    "Name": "AZERBAIJAN",
+    "CountryCode": 11
+  },
+  {
+    "Name": "BAHAMAS",
+    "CountryCode": 12
+  },
+  {
+    "Name": "BAHRAIN",
+    "CountryCode": 13
+  },
+  {
+    "Name": "BANGLADESH",
+    "CountryCode": 14
+  },
+  {
+    "Name": "BARBADOS",
+    "CountryCode": 15
+  },
+  {
+    "Name": "BELARUS",
+    "CountryCode": 16
+  },
+  {
+    "Name": "BELGIUM",
+    "CountryCode": 17
+  },
+  {
+    "Name": "BELIZE",
+    "CountryCode": 18
+  },
+  {
+    "Name": "BENIN",
+    "CountryCode": 19
+  },
+  {
+    "Name": "BHUTAN",
+    "CountryCode": 20
+  },
+  {
+    "Name": "BOLIVIA",
+    "CountryCode": 21
+  },
+  {
+    "Name": "BOSNIA AND HERZEGOVINA",
+    "CountryCode": 22
+  },
+  {
+    "Name": "BOTSWANA",
+    "CountryCode": 23
+  },
+  {
+    "Name": "BRAZIL",
+    "CountryCode": 24
+  },
+  {
+    "Name": "BRUNEI DARUSSALAM",
+    "CountryCode": 25
+  },
+  {
+    "Name": "BULGARIA",
+    "CountryCode": 26
+  },
+  {
+    "Name": "BURKINA FASO",
+    "CountryCode": 27
+  },
+  {
+    "Name": "BURUNDI",
+    "CountryCode": 28
+  },
+  {
+    "Name": "CABO VERDE",
+    "CountryCode": 29
+  },
+  {
+    "Name": "CAMBODIA",
+    "CountryCode": 30
+  },
+  {
+    "Name": "CAMEROON",
+    "CountryCode": 31
+  },
+  {
+    "Name": "CANADA",
+    "CountryCode": 32
+  },
+  {
+    "Name": "CENTRAL AFRICAN REPUBLIC",
+    "CountryCode": 33
+  },
+  {
+    "Name": "CHAD",
+    "CountryCode": 34
+  },
+  {
+    "Name": "CHILE",
+    "CountryCode": 35
+  },
+  {
+    "Name": "CHINA",
+    "CountryCode": 36
+  },
+  {
+    "Name": "COLOMBIA",
+    "CountryCode": 37
+  },
+  {
+    "Name": "COMOROS",
+    "CountryCode": 38
+  },
+  {
+    "Name": "CONGO (Congo-Brazzaville)",
+    "CountryCode": 39
+  },
+  {
+    "Name": "CONGO (Congo-Kinshasa)",
+    "CountryCode": 40
+  },
+  {
+    "Name": "COSTA RICA",
+    "CountryCode": 41
+  },
+  {
+    "Name": "CROATIA",
+    "CountryCode": 42
+  },
+  {
+    "Name": "CUBA",
+    "CountryCode": 43
+  },
+  {
+    "Name": "CYPRUS",
+    "CountryCode": 44
+  },
+  {
+    "Name": "CZECH REPUBLIC",
+    "CountryCode": 45
+  },
+  {
+    "Name": "DENMARK",
+    "CountryCode": 46
+  },
+  {
+    "Name": "DJIBOUTI",
+    "CountryCode": 47
+  },
+  {
+    "Name": "DOMINICA",
+    "CountryCode": 48
+  },
+  {
+    "Name": "DOMINICAN REPUBLIC",
+    "CountryCode": 49
+  },
+  {
+    "Name": "ECUADOR",
+    "CountryCode": 50
+  },
+  {
+    "Name": "EGYPT",
+    "CountryCode": 51
+  },
+  {
+    "Name": "EL SALVADOR",
+    "CountryCode": 52
+  },
+  {
+    "Name": "EQUATORIAL GUINEA",
+    "CountryCode": 53
+  },
+  {
+    "Name": "ERITREA",
+    "CountryCode": 54
+  },
+  {
+    "Name": "ESTONIA",
+    "CountryCode": 55
+  },
+  {
+    "Name": "ESWATINI",
+    "CountryCode": 56
+  },
+  {
+    "Name": "ETHIOPIA",
+    "CountryCode": 57
+  },
+  {
+    "Name": "FIJI",
+    "CountryCode": 58
+  },
+  {
+    "Name": "FINLAND",
+    "CountryCode": 59
+  },
+  {
+    "Name": "FRANCE",
+    "CountryCode": 60
+  },
+  {
+    "Name": "GABON",
+    "CountryCode": 61
+  },
+  {
+    "Name": "GAMBIA",
+    "CountryCode": 62
+  },
+  {
+    "Name": "GEORGIA",
+    "CountryCode": 63
+  },
+  {
+    "Name": "GERMANY",
+    "CountryCode": 64
+  },
+  {
+    "Name": "GHANA",
+    "CountryCode": 65
+  },
+  {
+    "Name": "GREECE",
+    "CountryCode": 66
+  },
+  {
+    "Name": "GRENADA",
+    "CountryCode": 67
+  },
+  {
+    "Name": "GUATEMALA",
+    "CountryCode": 68
+  },
+  {
+    "Name": "GUINEA",
+    "CountryCode": 69
+  },
+  {
+    "Name": "GUINEA-BISSAU",
+    "CountryCode": 70
+  },
+  {
+    "Name": "GUYANA",
+    "CountryCode": 71
+  },
+  {
+    "Name": "HAITI",
+    "CountryCode": 72
+  },
+  {
+    "Name": "HONDURAS",
+    "CountryCode": 73
+  },
+  {
+    "Name": "HUNGARY",
+    "CountryCode": 74
+  },
+  {
+    "Name": "ICELAND",
+    "CountryCode": 75
+  },
+  {
+    "Name": "INDIA",
+    "CountryCode": 76
+  },
+  {
+    "Name": "INDONESIA",
+    "CountryCode": 77
+  },
+  {
+    "Name": "IRAN",
+    "CountryCode": 78
+  },
+  {
+    "Name": "IRAQ",
+    "CountryCode": 79
+  },
+  {
+    "Name": "IRELAND",
+    "CountryCode": 80
+  },
+  {
+    "Name": "ISRAEL",
+    "CountryCode": 81
+  },
+  {
+    "Name": "ITALY",
+    "CountryCode": 82
+  },
+  {
+    "Name": "JAMAICA",
+    "CountryCode": 83
+  },
+  {
+    "Name": "JAPAN",
+    "CountryCode": 84
+  },
+  {
+    "Name": "JORDAN",
+    "CountryCode": 85
+  },
+  {
+    "Name": "KAZAKHSTAN",
+    "CountryCode": 86
+  },
+  {
+    "Name": "KENYA",
+    "CountryCode": 87
+  },
+  {
+    "Name": "KIRIBATI",
+    "CountryCode": 88
+  },
+  {
+    "Name": "KOREA, NORTH",
+    "CountryCode": 89
+  },
+  {
+    "Name": "KOREA, SOUTH",
+    "CountryCode": 90
+  },
+  {
+    "Name": "KUWAIT",
+    "CountryCode": 91
+  },
+  {
+    "Name": "KYRGYZSTAN",
+    "CountryCode": 92
+  },
+  {
+    "Name": "LAOS",
+    "CountryCode": 93
+  },
+  {
+    "Name": "LATVIA",
+    "CountryCode": 94
+  },
+  {
+    "Name": "LEBANON",
+    "CountryCode": 95
+  },
+  {
+    "Name": "LESOTHO",
+    "CountryCode": 96
+  },
+  {
+    "Name": "LIBERIA",
+    "CountryCode": 97
+  },
+  {
+    "Name": "LIBYA",
+    "CountryCode": 98
+  },
+  {
+    "Name": "LIECHTENSTEIN",
+    "CountryCode": 99
+  },
+  {
+    "Name": "LITHUANIA",
+    "CountryCode": 100
+  },
+  {
+    "Name": "LUXEMBOURG",
+    "CountryCode": 101
+  },
+  {
+    "Name": "MACAU",
+    "CountryCode": 102
+  },
+  {
+    "Name": "MACEDONIA",
+    "CountryCode": 103
+  },
+  {
+    "Name": "MADAGASCAR",
+    "CountryCode": 104
+  },
+  {
+    "Name": "MALAWI",
+    "CountryCode": 105
+  },
+  {
+    "Name": "MALAYSIA",
+    "CountryCode": 106
+  },
+  {
+    "Name": "MALDIVES",
+    "CountryCode": 107
+  },
+  {
+    "Name": "MALI",
+    "CountryCode": 108
+  },
+  {
+    "Name": "MALTA",
+    "CountryCode": 109
+  },
+  {
+    "Name": "MARSHALL ISLANDS",
+    "CountryCode": 110
+  },
+  {
+    "Name": "MARTINIQUE",
+    "CountryCode": 111
+  },
+  {
+    "Name": "MAURITANIA",
+    "CountryCode": 112
+  },
+  {
+    "Name": "MAURITIUS",
+    "CountryCode": 113
+  },
+  {
+    "Name": "MAYOTTE",
+    "CountryCode": 114
+  },
+  {
+    "Name": "MEXICO",
+    "CountryCode": 115
+  },
+  {
+    "Name": "MICRONESIA (FEDERATED STATES OF)",
+    "CountryCode": 116
+  },
+  {
+    "Name": "MOLDOVA",
+    "CountryCode": 117
+  },
+  {
+    "Name": "MONACO",
+    "CountryCode": 118
+  },
+  {
+    "Name": "MONGOLIA",
+    "CountryCode": 119
+  },
+  {
+    "Name": "MONTENEGRO",
+    "CountryCode": 120
+  },
+  {
+    "Name": "MONTSERRAT",
+    "CountryCode": 121
+  },
+  {
+    "Name": "MOROCCO",
+    "CountryCode": 122
+  },
+  {
+    "Name": "MOZAMBIQUE",
+    "CountryCode": 123
+  },
+  {
+    "Name": "MYANMAR",
+    "CountryCode": 124
+  },
+  {
+    "Name": "NAMIBIA",
+    "CountryCode": 125
+  },
+  {
+    "Name": "NAURU",
+    "CountryCode": 126
+  },
+  {
+    "Name": "NEPAL",
+    "CountryCode": 127
+  },
+  {
+    "Name": "NETHERLANDS",
+    "CountryCode": 128
+  },
+  {
+    "Name": "NEW CALEDONIA",
+    "CountryCode": 129
+  },
+  {
+    "Name": "NEW ZEALAND",
+    "CountryCode": 130
+  },
+  {
+    "Name": "NICARAGUA",
+    "CountryCode": 131
+  },
+  {
+    "Name": "NIGER",
+    "CountryCode": 132
+  },
+  {
+    "Name": "NIGERIA",
+    "CountryCode": 133
+  },
+  {
+    "Name": "NIUE",
+    "CountryCode": 134
+  },
+  {
+    "Name": "NORFOLK ISLAND",
+    "CountryCode": 135
+  },
+  {
+    "Name": "NORWAY",
+    "CountryCode": 136
+  },
+  {
+    "Name": "OMAN",
+    "CountryCode": 137
+  },
+  {
+    "Name": "PAKISTAN",
+    "CountryCode": 138
+  },
+  {
+    "Name": "PALAU",
+    "CountryCode": 139
+  },
+  {
+    "Name": "PANAMA",
+    "CountryCode": 140
+  },
+  {
+    "Name": "PAPUA NEW GUINEA",
+    "CountryCode": 141
+  },
+  {
+    "Name": "PARAGUAY",
+    "CountryCode": 142
+  },
+  {
+    "Name": "PERU",
+    "CountryCode": 143
+  },
+  {
+    "Name": "PHILIPPINES",
+    "CountryCode": 144
+  },
+  {
+    "Name": "PITCAIRN ISLANDS",
+    "CountryCode": 145
+  },
+  {
+    "Name": "POLAND",
+    "CountryCode": 146
+  },
+  {
+    "Name": "PORTUGAL",
+    "CountryCode": 147
+  },
+  {
+    "Name": "PUERTO RICO",
+    "CountryCode": 148
+  },
+  {
+    "Name": "QATAR",
+    "CountryCode": 149
+  },
+  {
+    "Name": "REUNION",
+    "CountryCode": 150
+  },
+  {
+    "Name": "ROMANIA",
+    "CountryCode": 151
+  },
+  {
+    "Name": "RUSSIA",
+    "CountryCode": 152
+  },
+  {
+    "Name": "RWANDA",
+    "CountryCode": 153
+  },
+  {
+    "Name": "SAINT BARTHELEMY",
+    "CountryCode": 154
+  },
+  {
+    "Name": "SAINT HELENA",
+    "CountryCode": 155
+  },
+  {
+    "Name": "SAINT KITTS AND NEVIS",
+    "CountryCode": 156
+  },
+  {
+    "Name": "SAINT LUCIA",
+    "CountryCode": 157
+  },
+  {
+    "Name": "SAINT MARTIN",
+    "CountryCode": 158
+  },
+  {
+    "Name": "SAINT PIERRE AND MIQUELON",
+    "CountryCode": 159
+  },
+  {
+    "Name": "SAINT VINCENT AND THE GRENADINES",
+    "CountryCode": 160
+  },
+  {
+    "Name": "SAMOA",
+    "CountryCode": 161
+  },
+  {
+    "Name": "SAN MARINO",
+    "CountryCode": 162
+  },
+  {
+    "Name": "SAO TOME AND PRINCIPE",
+    "CountryCode": 163
+  },
+  {
+    "Name": "SAUDI ARABIA",
+    "CountryCode": 164
+  },
+  {
+    "Name": "SENEGAL",
+    "CountryCode": 165
+  },
+  {
+    "Name": "SERBIA",
+    "CountryCode": 166
+  },
+  {
+    "Name": "SEYCHELLES",
+    "CountryCode": 167
+  },
+  {
+    "Name": "SIERRA LEONE",
+    "CountryCode": 168
+  },
+  {
+    "Name": "SINGAPORE",
+    "CountryCode": 169
+  },
+  {
+    "Name": "SINT MAARTEN",
+    "CountryCode": 170
+  },
+  {
+    "Name": "SRI LANKA",
+    "CountryCode": 171
+  },
+  {
+    "Name": "SUDAN",
+    "CountryCode": 172
+  },
+  {
+    "Name": "SURINAME",
+    "CountryCode": 173
+  },
+  {
+    "Name": "SWEDEN",
+    "CountryCode": 174
+  },
+  {
+    "Name": "SWITZERLAND",
+    "CountryCode": 175
+  },
+  {
+    "Name": "SYRIA",
+    "CountryCode": 176
+  },
+  {
+    "Name": "TAIWAN",
+    "CountryCode": 177
+  },
+  {
+    "Name": "TAJIKISTAN",
+    "CountryCode": 178
+  },
+  {
+    "Name": "TANZANIA",
+    "CountryCode": 179
+  },
+  {
+    "Name": "THAILAND",
+    "CountryCode": 180
+  },
+  {
+    "Name": "TIMOR-LESTE",
+    "CountryCode": 181
+  },
+  {
+    "Name": "TOGO",
+    "CountryCode": 182
+  },
+  {
+    "Name": "TOKELAU",
+    "CountryCode": 183
+  },
+  {
+    "Name": "TONGA",
+    "CountryCode": 184
+  },
+  {
+    "Name": "TRINIDAD AND TOBAGO",
+    "CountryCode": 185
+  },
+  {
+    "Name": "TUNISIA",
+    "CountryCode": 186
+  },
+  {
+    "Name": "TURKMENISTAN",
+    "CountryCode": 187
+  },
+  {
+    "Name": "TURKS AND CAICOS ISLANDS",
+    "CountryCode": 188
+  },
+  {
+    "Name": "TUVALU",
+    "CountryCode": 189
+  },
+  {
+    "Name": "UGANDA",
+    "CountryCode": 190
+  },
+  {
+    "Name": "UKRAINE",
+    "CountryCode": 191
+  },
+  {
+    "Name": "UNITED ARAB EMIRATES",
+    "CountryCode": 192
+  },
+  {
+    "Name": "UNITED KINGDOM",
+    "CountryCode": 193
+  },
+  {
+    "Name": "UNITED STATES",
+    "CountryCode": 194
+  },
+  {
+    "Name": "URUGUAY",
+    "CountryCode": 195
+  },
+  {
+    "Name": "UZBEKISTAN",
+    "CountryCode": 196
+  },
+  {
+    "Name": "VANUATU",
+    "CountryCode": 197
+  },
+  {
+    "Name": "VENEZUELA",
+    "CountryCode": 198
+  },
+  {
+    "Name": "VIETNAM",
+    "CountryCode": 199
+  },
+  {
+    "Name": "VIRGIN ISLANDS",
+    "CountryCode": 200
+  },
+  {
+    "Name": "WALLIS AND FUTUNA",
+    "CountryCode": 201
+  },
+  {
+    "Name": "WESTERN SAHARA",
+    "CountryCode": 202
+  },
+  {
+    "Name": "YEMEN",
+    "CountryCode": 203
+  },
+  {
+    "Name": "ZAMBIA",
+    "CountryCode": 204
+  },
+  {
+    "Name": "ZIMBABWE",
+    "CountryCode": 205
+  }
+]

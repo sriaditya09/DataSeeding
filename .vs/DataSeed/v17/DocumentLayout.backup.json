@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\DataSeed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A54AB0E6-FAB4-4AF1-8FF4-CCE88D89E019}|DataSeed\\DataSeed.csproj|c:\\users\\hp\\source\\repos\\dataseed\\dataseed\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54AB0E6-FAB4-4AF1-8FF4-CCE88D89E019}|DataSeed\\DataSeed.csproj|solutionrelative:dataseed\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54AB0E6-FAB4-4AF1-8FF4-CCE88D89E019}|DataSeed\\DataSeed.csproj|c:\\users\\hp\\source\\repos\\dataseed\\dataseed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54AB0E6-FAB4-4AF1-8FF4-CCE88D89E019}|DataSeed\\DataSeed.csproj|solutionrelative:dataseed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54AB0E6-FAB4-4AF1-8FF4-CCE88D89E019}|DataSeed\\DataSeed.csproj|c:\\users\\hp\\source\\repos\\dataseed\\dataseed\\repository\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54AB0E6-FAB4-4AF1-8FF4-CCE88D89E019}|DataSeed\\DataSeed.csproj|solutionrelative:dataseed\\repository\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54AB0E6-FAB4-4AF1-8FF4-CCE88D89E019}|DataSeed\\DataSeed.csproj|c:\\users\\hp\\source\\repos\\dataseed\\dataseed\\model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54AB0E6-FAB4-4AF1-8FF4-CCE88D89E019}|DataSeed\\DataSeed.csproj|solutionrelative:dataseed\\model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54AB0E6-FAB4-4AF1-8FF4-CCE88D89E019}|DataSeed\\DataSeed.csproj|c:\\users\\hp\\source\\repos\\dataseed\\dataseed\\model\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54AB0E6-FAB4-4AF1-8FF4-CCE88D89E019}|DataSeed\\DataSeed.csproj|solutionrelative:dataseed\\model\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54AB0E6-FAB4-4AF1-8FF4-CCE88D89E019}|DataSeed\\DataSeed.csproj|c:\\users\\hp\\source\\repos\\dataseed\\dataseed\\model\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54AB0E6-FAB4-4AF1-8FF4-CCE88D89E019}|DataSeed\\DataSeed.csproj|solutionrelative:dataseed\\model\\district.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54AB0E6-FAB4-4AF1-8FF4-CCE88D89E019}|DataSeed\\DataSeed.csproj|c:\\users\\hp\\source\\repos\\dataseed\\dataseed\\json\\city.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A54AB0E6-FAB4-4AF1-8FF4-CCE88D89E019}|DataSeed\\DataSeed.csproj|solutionrelative:dataseed\\json\\city.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54AB0E6-FAB4-4AF1-8FF4-CCE88D89E019}|DataSeed\\DataSeed.csproj|c:\\users\\hp\\source\\repos\\dataseed\\dataseed\\migrations\\20250303062806_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54AB0E6-FAB4-4AF1-8FF4-CCE88D89E019}|DataSeed\\DataSeed.csproj|solutionrelative:dataseed\\migrations\\20250303062806_fix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DataSeed\\DataSeed\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "DataSeed\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DataSeed\\DataSeed\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "DataSeed\\Controllers\\CountryController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAuwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:23:29.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DataSeed\\DataSeed\\Repository\\CityRepository.cs",
+              "RelativeDocumentMoniker": "DataSeed\\Repository\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DataSeed\\DataSeed\\Repository\\CityRepository.cs",
+              "RelativeToolTip": "DataSeed\\Repository\\CityRepository.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:44:19.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DataSeed\\DataSeed\\Model\\City.cs",
+              "RelativeDocumentMoniker": "DataSeed\\Model\\City.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DataSeed\\DataSeed\\Model\\City.cs",
+              "RelativeToolTip": "DataSeed\\Model\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:38:57.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "City.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DataSeed\\DataSeed\\Json\\City.json",
+              "RelativeDocumentMoniker": "DataSeed\\Json\\City.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DataSeed\\DataSeed\\Json\\City.json",
+              "RelativeToolTip": "DataSeed\\Json\\City.json",
+              "ViewState": "AgIAAEh1AAAAAAAAAAAuwF51AAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T06:38:49.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250303062806_fix.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DataSeed\\DataSeed\\Migrations\\20250303062806_fix.cs",
+              "RelativeDocumentMoniker": "DataSeed\\Migrations\\20250303062806_fix.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DataSeed\\DataSeed\\Migrations\\20250303062806_fix.cs",
+              "RelativeToolTip": "DataSeed\\Migrations\\20250303062806_fix.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:28:07.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "District.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DataSeed\\DataSeed\\Model\\District.cs",
+              "RelativeDocumentMoniker": "DataSeed\\Model\\District.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DataSeed\\DataSeed\\Model\\District.cs",
+              "RelativeToolTip": "DataSeed\\Model\\District.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:10:52.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DataSeed\\DataSeed\\Model\\State.cs",
+              "RelativeDocumentMoniker": "DataSeed\\Model\\State.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DataSeed\\DataSeed\\Model\\State.cs",
+              "RelativeToolTip": "DataSeed\\Model\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:10:39.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\DataSeed\\DataSeed\\Program.cs",
+              "RelativeDocumentMoniker": "DataSeed\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\DataSeed\\DataSeed\\Program.cs",
+              "RelativeToolTip": "DataSeed\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T05:59:24.711Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
